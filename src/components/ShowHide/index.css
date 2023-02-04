@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    background-image: linear-gradient(to right,#fa7257,#fc63a7);
+    flex-direction: column;
+
+}
+.container1{
+    border-radius: 5px;
+    background-color:#fddddb ;
+}
+.row{
+display: flex;
+
+}
+.para{
+     border-radius: 5px;
+    background-color:#fddddb ;
+    text-align: center;
+    padding: 20px;
+    color: #dd1264;
+}
+button{
+    background-color:#ffffff ;
+    border-radius: 5px;
+    border: 0px solid #ffffff;
+    color: #dd1264;
+    padding: 10px;
+}
+.space{
+    margin: 20px;
+
+}
+h1{
+    color:white;
+}
